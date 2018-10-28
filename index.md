@@ -6,7 +6,7 @@ Please read these Terms and Conditions (“Terms”, “Terms and Conditions”)
 
 ## Terms and Conditions
 
-By accessing this website we assume you accept these terms and conditions in full. Do not continue to use Focus App if you do not accept all of the terms and conditions stated on this page.
+By accessing this application we assume you accept these terms and conditions in full. Do not continue to use Focus App if you do not accept all of the terms and conditions stated on this page.
 
 Unless otherwise stated, Focus App and/or it’s licensors own the intellectual property rights for all material on Focus App. All intellectual property rights are reserved. You must not:
 	Republish material from Focus
