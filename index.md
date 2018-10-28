@@ -1,8 +1,8 @@
-# Terms of Use / Research Agreements
+## Terms of Use / Research Agreements
 
-## These terms of Use are effective on October 21st, 2018.
+These terms of Use are effective on October 21st, 2018.
 
-## Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the Focus app(the “Service”) operated by Focus team (“us”, “we”, or “our”).
+Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the Focus app(the “Service”) operated by Focus team (“us”, “we”, or “our”).
 
 ## Terms and Conditions
 
